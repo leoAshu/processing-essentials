@@ -21,7 +21,7 @@ void move() {
 }
 
 void display() {
-  fill(c);
   rectMode(CENTER);
+  fill(c);
   rect(x, y, 30, 10);
 }
