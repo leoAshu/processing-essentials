@@ -4,5 +4,7 @@
 
 # Processing
 
-
+Processing is a flexible software sketchbook and a language for learning how to code within the context of the visual arts, often utilized as a platform for prototyping.
+    
+    
 Sample projects created while getting familiar with Processing framework.
