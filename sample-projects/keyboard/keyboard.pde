@@ -1,6 +1,7 @@
 //IKeyboard keyboard = new Keyboard1();
 //IKeyboard keyboard = new Keyboard2();
-IKeyboard keyboard = new Keyboard3();
+//IKeyboard keyboard = new Keyboard3();
+IKeyboard keyboard = new Keyboard4();
 
 void setup() {
   size(300, 300);
