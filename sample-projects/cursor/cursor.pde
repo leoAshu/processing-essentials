@@ -1,4 +1,5 @@
-ICursor obj = new Cursor1();
+//ICursor obj = new Cursor1();
+ICursor obj = new Cursor2();
 
 void setup() {
   size(300, 300);
