@@ -1,4 +1,4 @@
-interface IMouseData {
+interface IMouse {
   void setup();
   void draw();
 }

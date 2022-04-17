@@ -1,4 +1,4 @@
-class MouseData1 implements IMouseData {
+class Mouse1 implements IMouse {
   
   void setup() {
     noStroke();

@@ -1,4 +1,4 @@
-class MouseData2 implements IMouseData {
+class Mouse2 implements IMouse {
   
   void setup() {
     strokeWeight(8);
