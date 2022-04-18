@@ -1,4 +1,5 @@
-ITyping type = new Typing1();
+//ITyping type = new Typing1();
+ITyping type = new Typing2();
 
 void setup() {
   size(300, 300);
