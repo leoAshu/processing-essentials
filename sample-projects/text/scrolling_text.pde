@@ -1,4 +1,4 @@
-class Text6 implements IText {
+class ScrollingText implements IText {
   String[] headlines = {
     "Processing downloads break downloading record.",
     "New study shows computer programming lowers cholesterol.",

@@ -3,7 +3,9 @@
 //IText obj = new Text3();
 //IText obj = new Text4();
 //IText obj = new Text5();
-IText obj = new Text6();
+//IText obj = new ScrollingText();
+//IText obj = new RotatingText();
+IText obj = new OneAtATime();
 PFont squarePeg;
 
 
