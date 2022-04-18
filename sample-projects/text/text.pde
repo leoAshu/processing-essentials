@@ -5,7 +5,8 @@
 //IText obj = new Text5();
 //IText obj = new ScrollingText();
 //IText obj = new RotatingText();
-IText obj = new OneAtATime();
+//IText obj = new OneAtATime();
+IText obj = new TextShakeUp();
 PFont squarePeg;
 
 
